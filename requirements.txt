@@ -1,5 +1,5 @@
 ipywidgets
-pysqlite3
+sqlite==3.33.0
 matplotlib
 pandas
 voila
