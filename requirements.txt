@@ -1,5 +1,4 @@
 ipywidgets
-pysqlite
 matplotlib
 pandas
 voila
