@@ -1,0 +1,7 @@
+ipywidgets
+sqlite
+matplotlib
+pandas
+voila
+matplotlib
+numpy
