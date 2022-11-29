@@ -1,7 +1,0 @@
-import sqlite3 as sql
-import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.colors as mpl
-from matplotlib.animation import FuncAnimation
-import numpy as np
-import ipywidgets as ipyw
