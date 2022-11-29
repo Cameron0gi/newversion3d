@@ -5,3 +5,4 @@ pandas
 voila
 matplotlib
 numpy
+ipympl
